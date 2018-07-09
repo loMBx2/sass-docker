@@ -9,6 +9,9 @@ The input "scss"-files are expected in "$PWD/public/css/sass"
 
 The Dockerfile load and run locales, setting LC_* to "C.UTF-8"
 
+Fork from: Copyright (c) 2015 Larry Price <larry.price.dev@gmail.com>
+https://github.com/larryprice/sass-docker
+
 Usage:
 
 ``` bash
