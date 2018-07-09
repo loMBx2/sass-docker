@@ -3,8 +3,9 @@ sass
 
 Use this image to watch a directory of SASS files and automatically compile on change.
 
-Put "sass" in your directory, subdirectory "sass"
-Output to src directory
+Container looks for "sass".Files ("scss") in a subdirectory "sass"
+CSS-Output to "src" directory. In the example below the output "css"-file would be in "$PWD/public/css"
+The input "scss"-file is expected in "$PWD/public/css/sass"
 
 Usage:
 
